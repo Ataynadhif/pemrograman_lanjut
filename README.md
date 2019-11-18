@@ -1,2 +1,2 @@
-# pemrograman_lanjut
-# pemrograman_lanjut
+# Pemrograman lanjut pararel b
+# Dosen pengampu : Pak Fawwaz Ali A, S.Kom. M.Kom
